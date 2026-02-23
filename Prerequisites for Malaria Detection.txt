@@ -1,0 +1,52 @@
+Prerequisites for Malaria Detection Using Deep Learning
+________________________________________
+1. Software Requirements
+•	Python (Version 3.8 or above)
+•	Jupyter Notebook or Google Colab
+•	VS Code / PyCharm (for development)
+•	Web Browser (Chrome, Edge, etc.)
+________________________________________
+2. Required Python Libraries
+•	The following libraries are required for image processing, model building, training, and deployment:
+•	TensorFlow / Keras
+•	NumPy
+•	Pandas
+•	Matplotlib
+•	Seaborn
+•	OpenCV
+•	Scikit-learn
+•	Pillow
+•	Streamlit (for web application)
+Installation Command:
+pip install tensorflow numpy pandas matplotlib seaborn opencv-python scikit-learn pillow streamlit
+________________________________________
+3. Hardware Requirements
+•	Minimum 8 GB RAM
+•	Intel i3 processor or above
+•	Stable Internet connection
+•	GPU (optional, for faster model training)
+________________________________________
+4. Dataset Requirement
+•	Dataset Name: NIH Malaria Dataset
+•	Type: Microscopic Blood Smear Images
+•	Classes:
+•	Parasitized
+•	Uninfected
+•	Source: Kaggle / National Institutes of Health (NIH)
+________________________________________
+5. Basic Knowledge Required
+•	Python programming basics
+•	Machine Learning fundamentals
+•	Deep Learning concepts
+•	Convolutional Neural Networks (CNN)
+•	Basic image processing
+•	Model training and evaluation concepts
+________________________________________
+6. Additional Tools (Optional)
+•	GitHub (for version control and project hosting)
+•	Google Drive (for dataset storage)
+•	Streamlit Cloud (for deployment)
+________________________________________
+Conclusion
+•	These prerequisites ensure that the system environment is properly set up for building, training, evaluating, and deploying a deep learning model for automated malaria detection.
+
