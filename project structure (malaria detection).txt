@@ -1,0 +1,36 @@
+structure
+
+Malaria-Detection-ML-DL/
+│
+├── dataset/
+│   ├── train/
+│   │   ├── parasitized/
+│   │   └── uninfected/
+│   ├── test/
+│   └── validation/
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── ML_Model.ipynb
+│   └── DL_Model.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_extraction.py
+│   ├── ml_model.py
+│   ├── cnn_model.py
+│   └── evaluate.py
+│
+├── models/
+│   ├── malaria_ml_model.pkl
+│   └── malaria_cnn_model.h5
+│
+├── app/
+│   ├── app.py
+│   └── templates/
+│       └── index.html
+│
+├── requirements.txt
+├── README.md
+└── main.py
+
